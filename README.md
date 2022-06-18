@@ -7,8 +7,9 @@ ASCII art is a graphic design technique that uses computers for presentation and
 1- Install pycharm software
 2- Install important libraries like os, PIL, cv2, math
 3- Add the required images videos and fonts in your code as per destination folder
-4- Run your code in cmd mode or
-5- Run in pycharm just pressing shift + F10
+4- Implement this code
+5- Run your code in cmd mode or
+6- Run in pycharm just pressing shift + F10
 
 # ADDITIONAL TASK - (ASCIIFY_VIDEO)
 It can convert an ongoing image into ascii art just by using simple characters
